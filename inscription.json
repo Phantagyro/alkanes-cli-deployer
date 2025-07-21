@@ -1,0 +1,14 @@
+{
+    "p": "alnks",
+    "op": "deploy",
+    "contract": {
+        "name": "HelloAlkanes",
+        "version": "0.1",
+        "author": "Phantagyro",
+        "description": "First smart contract on Alkanes",
+        "arguments": [
+            "msg"
+        ],
+        "wasm": "H4sIAEb3fWgC/wMAAAAAAAAAAAA="
+    }
+}
